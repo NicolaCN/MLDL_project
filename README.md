@@ -4,7 +4,7 @@
 Here you can find the [report](/SS_Report.pdf) and the [presentation](/Project_Presentation.pdf).
 
 We focus on Federated Learning in Semantic Segmentation, using Idda and GTAV datasets.
-In particular we move from a centralized scenario to a realistic federated and unsupervised scenario in the following phases:
+In particular we move from a centralized scenario to a realistic federated and unsupervised scenario through the following phases:
 ### Step 1
 Centralized approach, training and testing on Idda.
 ### Step 2
